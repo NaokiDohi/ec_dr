@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'api',
     'api.category',# add for admin page
+    'api.product',
 ]
 
 MIDDLEWARE = [
