@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'api.category',# add for admin page
     'api.product',
     'api.user',
+    'api.order',
 ]
 
 MIDDLEWARE = [
